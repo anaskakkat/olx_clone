@@ -1,0 +1,12 @@
+.search{
+    width:600px;
+}
+.sell_btn{
+    background-color: #fff;
+    padding: 1px 15px;
+    border-radius: 20px;
+    border-bottom: 4px solid #3a77ff;
+    border-right: 4px solid #3a77ff;
+    border-left: 4px solid #ffce32;
+    border-top: 4px solid #23e5db;
+}
